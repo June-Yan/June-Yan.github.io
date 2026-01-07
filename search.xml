@@ -15,6 +15,31 @@
           
           <category> Path of Liberation </category>
           
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Hexo </tag>
+            
+            <tag> 个人成长 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>second aritcle</title>
+      <link href="/blogs/secondpost/"/>
+      <url>/blogs/secondpost/</url>
+      
+        <content type="html"><![CDATA[<h1 id="第二篇文章"><a href="#第二篇文章" class="headerlink" title="第二篇文章"></a>第二篇文章</h1>]]></content>
+      
+      
+      <categories>
+          
           <category> 教程 </category>
           
       </categories>
@@ -24,7 +49,7 @@
             
             <tag> Hexo </tag>
             
-            <tag> 个人成长 </tag>
+            <tag> test </tag>
             
         </tags>
       
