@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title></title>
+      <link href="/blogs/test1/"/>
+      <url>/blogs/test1/</url>
+      
+        <content type="html"><![CDATA[<p>目标：掌握基本python语法、面向对象编程，能完成一些小项目（如贪吃蛇、计算器）</p><p>资源：<a href="https://liaoxuefeng.com/books/python/index.html">廖雪峰python</a>+<a href="https://mofanpy.com/learning-steps/">莫烦Python</a></p><h1 id="大标题"><a href="#大标题" class="headerlink" title="大标题"></a>大标题</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><h2 id="二级标题2"><a href="#二级标题2" class="headerlink" title="二级标题2"></a>二级标题2</h2><ol><li>有序列表</li><li>有序列表</li><li>有序列表</li><li>有序列表</li><li></li></ol><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span><span class="string">&lt;stdio.h&gt;</span></span></span><br></pre></td></tr></table></figure><blockquote><p>这是一段代码</p></blockquote><p>这是高亮块</p><ul><li>任务1</li><li>任务3</li><li></li></ul><table><thead><tr><th>表格</th><th>&#96;&#96;</th><th>&#96;&#96;</th></tr></thead><tbody><tr><td>111</td><td>222</td><td>333</td></tr></tbody></table><p><img src="https://ai.feishu.cn/space/api/box/stream/download/asynccode/?code=YTlmNjhhYzE2MTNkYTgxMzk2MjA0ZjgyMjJkNTkzNzVfMFo1c2hzOXVjMmwwdmVBSHZRZXkyQ0dyRXlCRkZUMjlfVG9rZW46SDVya2JmOVQyb2UzNFF4ajhFdWNiY1BBbnRjXzE3Njc3OTEwOTI6MTc2Nzc5NDY5Ml9WNA"></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>test</title>
       <link href="/blogs/test/"/>
       <url>/blogs/test/</url>
