@@ -4,50 +4,27 @@
   
     
     <entry>
-      <title>testaa</title>
-      <link href="/blogs/testaa/"/>
-      <url>/blogs/testaa/</url>
+      <title>test</title>
+      <link href="/blogs/test/"/>
+      <url>/blogs/test/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span><span class="string">&lt;stdio.h&gt;</span></span></span><br><span class="line"><span class="type">int</span> <span class="title function_">main</span><span class="params">()</span>&#123;</span><br><span class="line">    <span class="built_in">printf</span>(<span class="string">&quot;新您快乐！！&quot;</span>)</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
       
       
       <categories>
           
-          <category> 吃粑粑 </category>
+          <category> 测试 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> 不吃粑粑 </tag>
+            <tag> 测试 </tag>
             
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>second aritcle</title>
-      <link href="/blogs/secondpost/"/>
-      <url>/blogs/secondpost/</url>
-      
-        <content type="html"><![CDATA[<h1 id="第二篇文章"><a href="#第二篇文章" class="headerlink" title="第二篇文章"></a>第二篇文章</h1>]]></content>
-      
-      
-      <categories>
-          
-          <category> 教程 </category>
-          
-      </categories>
-      
-      
-        <tags>
+            <tag> 开发 </tag>
             
-            <tag> Hexo </tag>
-            
-            <tag> test </tag>
+            <tag> 软件工程 </tag>
             
         </tags>
       
