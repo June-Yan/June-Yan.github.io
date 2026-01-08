@@ -8,7 +8,7 @@
       <link href="/blogs/test-1/"/>
       <url>/blogs/test-1/</url>
       
-        <content type="html"><![CDATA[<h1 id="Mermaid-图表示例"><a href="#Mermaid-图表示例" class="headerlink" title="Mermaid 图表示例"></a>Mermaid 图表示例</h1><pre class="mermaid">graph TD    A[项目启动] --> B{需求分析}    B -->|需求明确| C[技术方案设计]    B -->|需求不清| D[回到需求阶段]    D --> B    C --> E[编码实现]    E --> F{代码审查}    F -->|通过| G[测试阶段]    F -->|未通过| H[修改代码]    H --> E    G --> I{测试结果}    I -->|通过| J[部署上线]    I -->|未通过| K[修复 Bug]    K --> E    J --> L[项目完成]</pre>]]></content>
+        <content type="html"><![CDATA[<h1 id="Mermaid-图表示例"><a href="#Mermaid-图表示例" class="headerlink" title="Mermaid 图表示例"></a>Mermaid 图表示例</h1><pre class="mermaid">graph TD    A[项目启动] --> B{需求分析}    B -->|需求明确| C[技术方案设计]    B -->|需求不清| D[回到需求阶段]    D --> B    C --> E[编码实现]    E --> F{代码审查}    F -->|通过| G[测试阶段]    F -->|未通过| H[修改代码]    H --> E    G --> I{测试结果}    I -->|通过| J[部署上线]    I -->|未通过| K[修复 Bug]    K --> E    J --> L[项目完成]</pre><div class="mermaid-wrap"><pre class="mermaid-src" data-config="{&quot;themeVariables&quot;: { &quot;fontSize&quot;: &quot;16px&quot; }, &quot;layout&quot;: &quot;elk&quot;, &quot;look&quot;: &quot;handDrawn&quot;}" hidden>    flowchart LR  A[Start] --&gt; B{Decision}  B --&gt;|Yes| C[Continue]  B --&gt;|No| D[Stop]  </pre></div>]]></content>
       
       
       
