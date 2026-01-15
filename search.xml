@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>20260115日复盘</title>
+      <link href="/blogs/20260115%E6%97%A5%E5%A4%8D%E7%9B%98/"/>
+      <url>/blogs/20260115%E6%97%A5%E5%A4%8D%E7%9B%98/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Main-Tasks"><a href="#Main-Tasks" class="headerlink" title="Main Tasks"></a>Main Tasks</h1><p> <del>[[实用工具导航]]输出</del><br> <del>[[lec0 零基础]]部分</del></p><h1 id="Daily-Plan"><a href="#Daily-Plan" class="headerlink" title="Daily Plan"></a>Daily Plan</h1><ul><li><input checked="" disabled="" type="checkbox"> 09:30-10:17 刷手机（晚睡带来的疲惫，导致早晨无精力起床）</li><li><input checked="" disabled="" type="checkbox"> 10:25-11:10 洗澡、买菜</li><li><input checked="" disabled="" type="checkbox"> 11:12-11:35 洗衣服 做卫生 洗漱</li><li><input checked="" disabled="" type="checkbox"> 11:40-12:35 吃饭（低效，边吃饭边看视频）</li><li><input checked="" disabled="" type="checkbox"> 13:00-13:40 娱乐（短视频、低质娱乐）</li><li><input checked="" disabled="" type="checkbox"> 13:40-14:25 写个[[#Vibes]],思考人生（低效率，因为此时本该睡午觉）</li><li><input checked="" disabled="" type="checkbox"> 14:25-14:55 信息收集</li><li><input checked="" disabled="" type="checkbox"> 15:00-15:25 短视频娱乐</li><li><input checked="" disabled="" type="checkbox"> 15:25-17:15  calculus lec0</li><li><input checked="" disabled="" type="checkbox"> 17:30-18:50 做饭吃饭 家务（做饭吃饭洗碗都很耗时间 低效 上升期该“外包”就“外包”，自己做菜仅限于补充营养的放纵餐）</li><li><input checked="" disabled="" type="checkbox"> 19:50-20:50 写博客（稍微低效，对于mermaid使用没习惯）</li><li><input checked="" disabled="" type="checkbox"> 21:10-22:20 娱乐</li><li><input checked="" disabled="" type="checkbox"> 22:40-23:05 leetcode挑个简单题刷签到[[Easy_problem_archive]]</li></ul><pre><code class="highlight mermaid">pie    title 时间分配饼图    &quot;日常作息 (203分钟)&quot; : 203    &quot;娱乐 (182分钟)&quot; : 182    &quot;学习 (135分钟)&quot; : 135    &quot;副业创业 (60分钟)&quot; : 60    &quot;其他 (45分钟)&quot; : 45    &quot;信息收集 (30分钟)&quot; : 30</code></pre><h1 id="Vibes"><a href="#Vibes" class="headerlink" title="Vibes"></a>Vibes</h1><ol><li>看了<a href="https://www.bilibili.com/video/BV1sQrpB3Enq/?share_source=copy_web&vd_source=f290db4430dc60ad19d813119d3e7628">这个视频</a>，讲的是婚姻的本质、一些年轻人的困境。非常感到感同身受，即便我认为我比博主的条件可能还会好一点。我个人认为婚姻是爱情的结果，不是目的。我并不是否定不奔着结婚的恋爱是耍流氓这个观点，但至少要找和自己三观一致，知识、技能、能力、财富等差不多的女生并在婚前要有一段时间的必要交往甚至同居，我排斥相亲、排斥没有共同生活经历的人突然之间就要生活在一起。同居并不是做爱，是至少把生活习性和柴米油盐先预演一遍，如果婚前都不能接受的话、尽早收手不要祸害小孩是更好的选择。          如果结婚只是为了花钱充面子、那么不应当在比较年轻的年纪结婚（虽然这句话的前提是你要有足够的上升前景，导致这个年纪提升自己效益更大；但即便你年轻但没有上升空间，也不应当在自己的生活中加入一项负债）；如果结婚之后要生小孩，那么同样不应该尽早结婚，因为你根本没有足够积蓄去托举小孩，这只是让孩子再吃一遍你的苦罢了，阶级固化的大背景下只是一代一代人的循环、自我提升和阶级跃迁都极其困难，金钱学历的通货膨胀，只是营造一个错觉，你的处境、地位、消费力和上一辈没有本质区别。          个人而言，在经济水平有限的情况下，投资一段新的感情或者新的生命，远不如投资或者犒劳自己实用。人人都难成为孙宇晨，杜绝房车投资自己且大赚特赚；但是能成为更好的自己、褪去二十多年的疲惫就已经不错了。至于社会舆论和父母亲戚，别听、也不要纠缠，做好课题分离，孩子只负责他们的健康，如何过完这一生、找寻自己的价值，都是孩子的课题。</li><li>cs336的前提是DL和RL的了解，吴恩达+cs231n+cs224n这样的基础会很好入门。 It’s a good project for复试。</li><li>还是需要周期性的计划，类似甘特图那种，明确某个项目指定的完成时间段。</li><li>AI牛逼。obsidian的美化和数据可视化（dataviewjs&#x2F;css&#x2F;mermaid）完全可以依赖AI，减少了很多学习成本。</li><li>刷到一个复旦大三数科的，交易策略是主观+量化。emmmm感觉挺厉害的，而且数学专业能自学cs和深度学习，把图论运用到交易，自学能力和自驱力都好强。等身体恢复、课程减少之后试一试。</li><li>不知道会不会挂科，主要是计算机网络。我承认我大意了没有闪。老妈问要不要求求情，but in fact I probably can’t pass even if I got a full marks on regular assignment.</li></ol><h1 id="Daily-Review"><a href="#Daily-Review" class="headerlink" title="Daily Review"></a>Daily Review</h1><ol><li>时间分配碎片化严重、有效学习时间少、睡眠时间问题（以及睡眠不足导致的补偿性浪费）</li><li>专注力（吃饭边看视频）</li><li>做好财富管理后应该外包的活动要外包。即便是假象，也要稍微营造自己时间值钱的“假象”</li><li>明确项目的周期性计划</li><li>娱乐方式和质量需要提高</li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> 日复盘 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>实用软件或网站导航</title>
       <link href="/blogs/%E5%AE%9E%E7%94%A8%E8%BD%AF%E4%BB%B6%E6%88%96%E7%BD%91%E7%AB%99%E5%AF%BC%E8%88%AA/"/>
       <url>/blogs/%E5%AE%9E%E7%94%A8%E8%BD%AF%E4%BB%B6%E6%88%96%E7%BD%91%E7%AB%99%E5%AF%BC%E8%88%AA/</url>
